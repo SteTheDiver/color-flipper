@@ -67,5 +67,6 @@ main {
   border-radius: 15px;
   height: 20%;
   background-color: white;
+  text-transform: uppercase;
   color: rgb(73, 142, 221);
 }
